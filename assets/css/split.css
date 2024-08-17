@@ -113,7 +113,7 @@ html {
 
 body.page-template-page-fullsingle-split {
   background-color: #061C30;
-  font-family: "Lora", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 21px;
   line-height: 33px;
@@ -179,7 +179,7 @@ body.page-template-page-fullsingle-split p {
 }
 
 .split-intro {
-  font-family: "Montserrat", "Lora", serif;
+  font-family: "Montserrat", serif;
   font-weight: 600;
   font-size: 64px;
   line-height: 80px;
@@ -200,7 +200,7 @@ body.page-template-page-fullsingle-split p {
 
 .split-bio {
   padding: 40px 0 20px 0;
-  font-family: "Montserrat", "Lora", serif;
+  font-family: "Montserrat", serif;
 }
 @media (max-width: 1200px) {
   .split-bio {
